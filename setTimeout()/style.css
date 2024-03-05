@@ -1,0 +1,23 @@
+#startbtn{
+    font-size: 2em;
+    background-color:  hsl(240, 96%, 60%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+}
+
+#startbtn:hover{
+    cursor: pointer;
+    background-color: hsl(240, 100%, 50%);
+}
+
+#clearbtn{
+    font-size: 2em;
+    background-color:  hsl(118, 72%, 63%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+}
+
+#clearbtn:hover{
+    cursor: pointer;
+    background-color: hsl(127, 100%, 50%);
+}
